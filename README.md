@@ -6,7 +6,7 @@
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Technologies Covered
 
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,13 +27,16 @@
 
 ### 📁 Projects
 
-| Course | Project | Description | Grade (/20) |
+| Course | Name/Project | Description | Grade (/20) |
 |--------|---------|-------------|-------------|
-| **IADP** | [*Python focus on panda library*] | Treatment, manipulation, and data analysis using Python and relevant libraries. Focus on logical problem-solving and structured presentation of results. | 19.0 |
-| **LBAW** | [*LBAW_Web_Site*](https://github.com/Tomas-Ferreira1/LBAW) | Full-Stack Web Application development with database modeling. Strong component of planning and collaborative teamwork. | 17.0 |
-| **LDTS** | [*LDTS_2D_Game*](https://github.com/Tomas-Ferreira1/LDTS-2D-GAME) | Interactive 2D game developed in Java, applying software architecture principles, Design Patterns, MVC model, and unit testing. | 16.0 |
-| **FSI** | [*FSI_Labs*](https://github.com/Tomas-Ferreira1/FSI) | [Brief description of your Security project in English] | 15.0 |
-| **LTW** | [*LTW Web Site*](https://github.com/Tomas-Ferreira1/LTW-SITE) | [Foundational full-stack web development project. Created a functional and responsive website from scratch using core web technologies (HTML, CSS, JavaScript, PHP, and SQLite).] | 14.0 |
+| **IADP** | [*Python for data analysis*] | Treatment, manipulation, and data analysis using Python and relevant libraries. Focus on logical problem-solving and structured presentation of results. | 19.0 |
+| **LBAW** | [*NEWSYNC Web Site*](https://github.com/Tomas-Ferreira1/LBAW) | Full-Stack Web Application development with database modeling. Strong component of planning and collaborative teamwork. | 17.0 |
+| **LDTS** | [*2D_Game*](https://github.com/Tomas-Ferreira1/LDTS-2D-GAME) | Interactive 2D game developed in Java, applying software architecture principles, Design Patterns, MVC model, and unit testing. | 16.0 |
+| **FSI** | [*Labs*](https://github.com/Tomas-Ferreira1/FSI) | Hands-on cybersecurity labs focusing on identifying, analyzing, and exploiting common software and web vulnerabilities. Applied practical security concepts and defense mitigation strategies. | 15.0 |
+| **LTW** | [*LTW Web Site*](https://github.com/Tomas-Ferreira1/LTW-SITE) | Foundational full-stack web development project. Created a functional and responsive website from scratch using core web technologies (HTML, CSS, JavaScript, PHP, and SQLite). | 14.0 |
+| **ME** | [*Statistical Methods*] | Fundamentals of probability theory and statistical inference. Covered essential mathematical concepts for data analysis, including hypothesis testing, confidence intervals, and regression models. | 14.0 |
+| **LCOM** | [*Computer lab*] | Low-level programming project in C (Minix). Developed an interactive application integrating hardware devices (timer, keyboard, mouse, and video) via direct hardware manipulation. | 14.0 |
+| **ESOF** | [*ESOF_Mobile_App*] | Mobile application development applying Agile methodologies (Scrum). Focused on requirements engineering, software architecture, design patterns, and quality assurance. | 14.0 |
 
 ---
 
